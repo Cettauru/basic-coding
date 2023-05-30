@@ -1,20 +1,20 @@
 body{
-    background-color: rgb(228, 215, 199);
+    background-color: rgb(50, 68, 40);
 }
 h1{
-    color: rgb(126, 79, 57);
+    color: rgb(158, 116, 96);
 }
 h2{
-    color: rgb(167, 106, 56);
+    color: rgb(199, 158, 125);
 }
 h3{
-    color: rgb(185, 135, 101);
+    color: rgb(206, 175, 154);
 }
 a:link {
-    color: rgb(126, 79, 57);
+    color: rgb(158, 116, 96);
     text-decoration: none;
 }
 a:visited {
-    color: rgb(167, 106, 56);
+    color: rgb(199, 158, 125);
     text-decoration: none;
 }
