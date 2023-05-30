@@ -3,11 +3,26 @@ body{
     text-align: center;
 }
 h1{
-    color: rgb(240, 227, 218);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(41, 135, 158);
 }
-h2{
+a:link {
     background-color: white;
-    color: rgb(50, 82, 185);
-    font-size: large;
+    color: rgb(41, 135, 158);
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+a:visited {
+    background-color: white;
+    color: rgb(41, 135, 158);
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover {
+    background-color: rgb(41, 135, 158);
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
 }
