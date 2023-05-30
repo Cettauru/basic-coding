@@ -1,9 +1,12 @@
-html{
-    color: black;
+body{
+    background-color: rgb(94, 189, 212);
+    text-align: center;
 }
 h1{
-    color: white;
+    color: rgb(240, 227, 218);
 }
 h2{
-    color: grey;
+    background-color: white;
+    color: rgb(50, 82, 185);
+    font-size: large;
 }
