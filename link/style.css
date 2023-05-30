@@ -4,6 +4,7 @@ body{
 }
 h1{
     color: rgb(240, 227, 218);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h2{
     background-color: white;

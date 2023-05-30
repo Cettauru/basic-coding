@@ -1,12 +1,20 @@
+body{
+    background-color: rgb(228, 215, 199);
+}
 h1{
-    color: aquamarine;
-    font-size: large;
+    color: rgb(126, 79, 57);
 }
 h2{
-    color:bisque;
-    font-size: medium;
+    color: rgb(167, 106, 56);
 }
 h3{
-    color: blue;
-    font-size: small;
+    color: rgb(185, 135, 101);
+}
+a:link {
+    color: rgb(126, 79, 57);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(167, 106, 56);
+    text-decoration: none;
 }
