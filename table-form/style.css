@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(96, 227, 203);
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+h1{
+    background-color: rgb(17, 136, 114);
+    padding: 15px 50px;
+    display: inline-block;
+    color:white;
+}
+h2{
+    color:white;
+}
+p{
+    color: rgb(197, 255, 244);
+}
+table{
+    align-items: center;
+    align-content: center;
+    width: 75%;
+    border-collapse: collapse;
+    color: rgb(17, 136, 114);
+    margin-left: 150px;
+}
+th, td{
+    padding: 8px;
+}
+th{
+    background-color: rgb(17, 136, 114);
+    color: white;
+}
+tr:hover{
+    background-color: white;
+}
+form{
+    color: rgb(197, 255, 244);
+}
