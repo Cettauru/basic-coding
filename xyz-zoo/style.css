@@ -9,6 +9,27 @@ h1{
     color: rgb(158, 116, 96);
     text-align: center;
 }
+div.feline{
+    background-color: rgb(100, 120, 90);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+div.canine{
+    background-color: rgb(100, 120, 90);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+div.bird{
+    background-color: rgb(100, 120, 90);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
 h2{
     color: rgb(199, 158, 125);
 }
