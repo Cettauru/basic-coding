@@ -1,26 +1,28 @@
 body{
-    background-color: rgb(94, 189, 212);
+    background-color: rgb(32, 49, 78);
     text-align: center;
 }
 h1{
-    color: rgb(41, 135, 158);
+    color: rgb(241, 179, 55);
 }
 a:link {
     background-color: white;
-    color: rgb(41, 135, 158);
+    color: rgb(241, 179, 55);
     padding: 14px 25px;
+    border-radius: 10px;
     text-decoration: none;
     display: inline-block;
 }
 a:visited {
     background-color: white;
-    color: rgb(41, 135, 158);
+    color: rgb(241, 179, 55);
     padding: 14px 25px;
+    border-radius: 10px;
     text-decoration: none;
     display: inline-block;
 }
 a:hover {
-    background-color: rgb(41, 135, 158);
+    background-color: rgb(241, 179, 55);
     color: white;
     padding: 14px 25px;
     text-decoration: none;
