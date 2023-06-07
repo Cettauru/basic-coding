@@ -40,10 +40,14 @@ h3{
     color: rgb(62, 43, 34);
 }
 a:link {
-    color: rgb(158, 116, 96);
+    color: rgb(230, 195, 179);
     text-decoration: none;
 }
 a:visited {
-    color: rgb(199, 158, 125);
+    color: rgb(230, 195, 179);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(222, 170, 145);
     text-decoration: none;
 }
